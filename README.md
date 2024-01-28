@@ -48,3 +48,17 @@
 2. Use the concat method to combine the two arrays into a new array.
 3. Print both the original arrays and the combined array using console.log().
 # Array
+
+
+### switch
+**Instructions:**
+1. write a function called "getSeason" that takes a month as a number (1 for january ,2 for february .3 for March and so on ) and returns the coresponding season.
+
+2. The seasons are defined as a follows.
+
+3. spring march(3) to may(5).
+3. summer june(6) to August (8).
+4. automn Sep(9) to nov(11).
+5. winter dec(12) to jan(1) and feb(2).
+6. use a switch statement to impliment the logic.
+
